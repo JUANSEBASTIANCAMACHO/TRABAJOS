@@ -1,5 +1,5 @@
 # Declarar la estructura tipo lista vacia
-
+sumaNotas = 0.0
 listaNotas=[]
 n=int(input("Ingrese la cantidad de estudiantes : "))
 
@@ -15,10 +15,6 @@ for posVec in range (n):
 #Imprimir la lista 
 print(listaNotas)
 
-
-# Declarar una variable para almacenar la suma 
-sumaNotas = 0.0
-# Recorrer el arreglo e ir acumulando en la variable
 
 for x in range (len( listaNotas)):
     sumaNotas=sumaNotas+listaNotas[x]
@@ -38,7 +34,7 @@ for x in range(n):
 
 print("Mayor dato de la lista :",mayor )
 print("Posicion del mayor dato en la lista : ",posicion2)
-
+uvi
 
 menor=listaNotas[0]
 posicion=0
