@@ -34,7 +34,6 @@ for x in range(n):
 
 print("Mayor dato de la lista :",mayor )
 print("Posicion del mayor dato en la lista : ",posicion2)
-uvi
 
 menor=listaNotas[0]
 posicion=0
